@@ -17,7 +17,7 @@ function HomeScreen({ navigation }) {
             </Button>
           </Left>
           <Body>
-            <Title>Header</Title>
+            <Title>Frutiloca</Title>
           </Body>
           <Right />
         </Header>
